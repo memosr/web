@@ -4782,5 +4782,12 @@
     "imageUrl": "/images/partners/city_protocol.png",
     "category": "consumer",
     "subcategory": "real world"
-  }
-]
+  },
+  {
+  "name": "Base Solidity Contracts",
+  "description": "10 Solidity contracts deployed on Base network for educational purposes. Each contract has a unique concept — from time capsules to voting systems — built by a community contributor.",
+  "url": "https://github.com/memosr/base-solidity-contracts",
+  "imageUrl": "https://raw.githubusercontent.com/KULLANICI_ADIN/base-solidity-contracts/main/logo.png",
+  "category": "infra",
+  "subcategory": "developer tool"
+}
